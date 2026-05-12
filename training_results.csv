@@ -1,0 +1,42 @@
+Epoch,Train_Accuracy,Test_Accuracy,Status
+1,17.22,53.01,Best model saved
+2,38.99,68.44,Best model saved
+3,54.63,74.25,Best model saved
+4,64.29,76.75,Best model saved
+5,69.20,78.22,Best model saved
+6,73.91,79.47,Best model saved
+7,75.90,81.97,Best model saved
+8,78.40,83.54,Best model saved
+9,81.09,83.65,Best model saved
+10,82.81,85.23,Best model saved
+11,84.42,85.33,Best model saved
+12,85.70,86.42,Best model saved
+13,86.46,87.13,Best model saved
+14,88.36,87.34,Best model saved
+15,88.80,88.16,Best model saved
+16,89.42,88.05,Best model saved
+17,91.32,88.59,Best model saved
+18,91.53,88.70,Best model saved
+19,92.00,89.19,Best model saved
+20,93.07,89.63,Best model saved
+21,93.86,89.41,Best model saved
+22,94.56,89.68,Best model saved
+23,95.26,90.33,Best model saved
+24,95.61,90.60,Best model saved
+25,95.65,90.44,No improvement
+26,95.89,90.28,No improvement
+27,96.41,90.93,Best model saved
+28,96.85,90.82,Best model saved
+29,97.43,90.44,No improvement
+30,97.35,91.15,Best model saved
+31,97.94,91.09,Best model saved
+32,97.95,90.87,No improvement
+33,98.39,90.93,Best model saved
+34,98.27,91.31,No improvement
+35,98.43,91.15,No improvement
+36,98.59,91.42,Best model saved
+37,98.77,91.58,No improvement
+38,99.09,91.47,No improvement
+39,99.09,91.15,No improvement
+40,99.03,90.82,No improvement
+41,99.18,91.25,Training continued
